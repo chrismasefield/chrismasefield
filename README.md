@@ -1,30 +1,13 @@
-#### Stack
----
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+
+@chrismasefield<br/>
+
 ### Hi, I'm Chris 👋
 
 Final-year Industrial Engineering student at Stellenbosch University, interested in
 applying ML and automation to real operational problems.
 
-- 🔬 **Thesis:** explainable AI for anomaly triage in tabular data —
-  [synthanom](https://github.com/chrismasefield/synthanom) (Isolation Forest,
-  autoencoders, SHAP, synthetic fault injection)
-- ⚙️ Built AI-based invoice extraction and quote-validation tooling during an IE
-  internship at Shoprite Checkers (Power Automate, Excel/VBA)
+<!--![Profile views](https://counter.kuber.studio/chrismasefield/dark/count.svg)--><br/>
+![](https://streak-stats.demolab.com/?user=chrismasefield&theme=tokyonight&hide_border=false)
+<br/>![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=chrismasefield&theme=tokyonight&days=30&width=320&height=80)<br/>
 
-📫 chris@masefield.org
-
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrismasefield&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismasefield&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chris_masefield) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chris@masefield.org) 
