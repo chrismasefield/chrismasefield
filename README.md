@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Chris 👋
 
-<!--
-**chrismasefield/chrismasefield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Industrial Engineering student at Stellenbosch University, interested in
+applying ML and automation to real operational problems.
 
-Here are some ideas to get you started:
+- 🔬 **Thesis:** explainable AI for anomaly triage in tabular data —
+  [synthanom](https://github.com/chrismasefield/synthanom) (Isolation Forest,
+  autoencoders, SHAP, synthetic fault injection)
+- ⚙️ Built AI-based invoice extraction and quote-validation tooling during an IE
+  internship at Shoprite Checkers
+- 🛠️ Python (NumPy, pandas, PyTorch) · R · MATLAB · C · LaTeX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 chris@masefield.org
